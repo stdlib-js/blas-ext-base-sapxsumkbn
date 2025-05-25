@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-30)
+## Unreleased (2025-05-25)
 
 <section class="features">
 
@@ -17,12 +17,24 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`981c7ba`](https://github.com/stdlib-js/stdlib/commit/981c7baecfe6ab8ab4d973e95cd20453f90c5e28) - add missing checks for `N` and address failing tests stemming from refactoring
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`981c7ba`](https://github.com/stdlib-js/stdlib/commit/981c7baecfe6ab8ab4d973e95cd20453f90c5e28) - **fix:** add missing checks for `N` and address failing tests stemming from refactoring _(by Athan Reines)_
+-   [`00842b8`](https://github.com/stdlib-js/stdlib/commit/00842b8c167ceba4518240abdf87fa36a9d50b2c) - **refactor:** simplify implementation _(by Athan Reines)_
 -   [`5731206`](https://github.com/stdlib-js/stdlib/commit/5731206687fc0584469a369adb69dd44b26277ed) - **feat:** add `blas/ext/base/wasm/sapxsumkbn` [(#5764)](https://github.com/stdlib-js/stdlib/pull/5764) _(by Gururaj Gurram, Athan Reines)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`3d551c4`](https://github.com/stdlib-js/stdlib/commit/3d551c499345de88a1e897c26977cde8d5f263a9) - **feat:** add C `ndarray` API and refactor `blas/ext/base/sapxsumkbn` [(#4714)](https://github.com/stdlib-js/stdlib/pull/4714) _(by Muhammad Haris, stdlib-bot)_

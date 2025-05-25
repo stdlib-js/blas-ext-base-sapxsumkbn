@@ -43,7 +43,7 @@
   "dependencies": {
     "@stdlib/assert-is-error": "^0.2.2",
     "@stdlib/blas-base-shared": "^0.1.0",
-    "@stdlib/math-base-special-absf": "^0.2.2",
+    "@stdlib/blas-ext-base-ssumkbn": "^0.2.2",
     "@stdlib/napi-argv": "^0.2.2",
     "@stdlib/napi-argv-float": "^0.2.2",
     "@stdlib/napi-argv-int64": "^0.2.2",
