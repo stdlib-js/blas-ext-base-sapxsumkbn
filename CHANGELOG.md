@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-06-23)
+## 0.3.0 (2026-01-30)
 
 <section class="features">
 
@@ -33,6 +33,7 @@
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`12b992e`](https://github.com/stdlib-js/stdlib/commit/12b992eca7ac911aa20fe41aa4fffc9dec128c9d) - **test:** address failing test cases _(by Athan Reines)_
 -   [`981c7ba`](https://github.com/stdlib-js/stdlib/commit/981c7baecfe6ab8ab4d973e95cd20453f90c5e28) - **fix:** add missing checks for `N` and address failing tests stemming from refactoring _(by Athan Reines)_
 -   [`00842b8`](https://github.com/stdlib-js/stdlib/commit/00842b8c167ceba4518240abdf87fa36a9d50b2c) - **refactor:** simplify implementation _(by Athan Reines)_
