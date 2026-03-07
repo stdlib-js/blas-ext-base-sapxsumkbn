@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-07)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`7bfee0d`](https://github.com/stdlib-js/stdlib/commit/7bfee0d98d430fd649f3f5546c30ad5b1a917c2e) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/sapxsumkbn` [(#10754)](https://github.com/stdlib-js/stdlib/pull/10754) _(by Prajjwal Bajpai)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Prajjwal Bajpai
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-08)
